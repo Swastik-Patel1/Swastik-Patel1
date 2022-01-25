@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swastik-Patel1
+- 👋 Hi, I’m Swastik Patel! 
 - 👀 I’m interested in Python, C#, Java, and Swift
 - 🌱 I’m currently learning Java
 
