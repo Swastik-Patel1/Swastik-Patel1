@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swastik Patel! 
-- 👀 I’m interested in Python, C#, Java, and Swift
+- 👀 I’m interested in Python, C#, Java, Swift, and HTML
 - 🌱 I’m currently learning Java
 
 <!---
